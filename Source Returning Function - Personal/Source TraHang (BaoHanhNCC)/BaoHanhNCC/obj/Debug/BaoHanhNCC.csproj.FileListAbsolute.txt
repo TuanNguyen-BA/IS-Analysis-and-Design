@@ -1,0 +1,49 @@
+D:\LEARNING C#\Buoi05_August_23_7a+7b_3_Layers\BaoHanhNCC\obj\Debug\BaoHanhNCC.csprojAssemblyReference.cache
+D:\LEARNING C#\Buoi05_August_23_7a+7b_3_Layers\BaoHanhNCC\obj\Debug\BaoHanhNCC.FrmLapDON_TRA_HANG.resources
+D:\LEARNING C#\Buoi05_August_23_7a+7b_3_Layers\BaoHanhNCC\obj\Debug\BaoHanhNCC.Properties.Resources.resources
+D:\LEARNING C#\Buoi05_August_23_7a+7b_3_Layers\BaoHanhNCC\obj\Debug\BaoHanhNCC.csproj.GenerateResource.cache
+D:\LEARNING C#\Buoi05_August_23_7a+7b_3_Layers\BaoHanhNCC\bin\Debug\BaoHanhNCC.exe.config
+D:\LEARNING C#\Buoi05_August_23_7a+7b_3_Layers\BaoHanhNCC\bin\Debug\BaoHanhNCC.exe
+D:\LEARNING C#\Buoi05_August_23_7a+7b_3_Layers\BaoHanhNCC\bin\Debug\BaoHanhNCC.pdb
+D:\LEARNING C#\Buoi05_August_23_7a+7b_3_Layers\BaoHanhNCC\obj\Debug\BaoHanhNCC.FrmThemDTH.resources
+D:\LEARNING C#\Buoi05_August_23_7a+7b_3_Layers\BaoHanhNCC\obj\Debug\BaoHanhNCC.exe
+D:\LEARNING C#\Buoi05_August_23_7a+7b_3_Layers\BaoHanhNCC\obj\Debug\BaoHanhNCC.pdb
+D:\LEARNING C#\Buoi05_August_23_7a+7b_3_Layers\BaoHanhNCC\obj\Debug\BaoHanhNCC.FrmThemCT_DTH.resources
+D:\LEARNING C#\Buoi05_August_23_7a+7b_3_Layers\BaoHanhNCC\obj\Debug\BaoHanhNCC.FrmSuaDTH.resources
+D:\LEARNING C#\Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\bin\Debug\BaoHanhNCC.exe.config
+D:\LEARNING C#\Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\bin\Debug\BaoHanhNCC.exe
+D:\LEARNING C#\Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.csprojAssemblyReference.cache
+D:\LEARNING C#\Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.FrmLapDON_TRA_HANG.resources
+D:\LEARNING C#\Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.FrmSuaDTH.resources
+D:\LEARNING C#\Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.FrmThemCT_DTH.resources
+D:\LEARNING C#\Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.FrmThemDTH.resources
+D:\LEARNING C#\Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.Properties.Resources.resources
+D:\LEARNING C#\Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.csproj.GenerateResource.cache
+D:\LEARNING C#\Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.exe
+D:\LEARNING C#\Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.pdb
+D:\LEARNING C#\Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\bin\Debug\BaoHanhNCC.pdb
+D:\LEARNING C#\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\bin\Debug\BaoHanhNCC.exe.config
+D:\LEARNING C#\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\bin\Debug\BaoHanhNCC.exe
+D:\LEARNING C#\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\bin\Debug\BaoHanhNCC.pdb
+D:\LEARNING C#\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.csprojAssemblyReference.cache
+D:\LEARNING C#\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.FrmLapDON_TRA_HANG.resources
+D:\LEARNING C#\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.FrmSuaDTH.resources
+D:\LEARNING C#\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.FrmThemCT_DTH.resources
+D:\LEARNING C#\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.FrmThemDTH.resources
+D:\LEARNING C#\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.Properties.Resources.resources
+D:\LEARNING C#\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.csproj.GenerateResource.cache
+D:\LEARNING C#\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.exe
+D:\LEARNING C#\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.pdb
+G:\DISK C\PTTK HTTT TS. THU & NAM\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\bin\Debug\BaoHanhNCC.exe.config
+G:\DISK C\PTTK HTTT TS. THU & NAM\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\bin\Debug\BaoHanhNCC.exe
+G:\DISK C\PTTK HTTT TS. THU & NAM\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\bin\Debug\BaoHanhNCC.pdb
+G:\DISK C\PTTK HTTT TS. THU & NAM\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.csprojAssemblyReference.cache
+G:\DISK C\PTTK HTTT TS. THU & NAM\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.FrmLapDON_TRA_HANG.resources
+G:\DISK C\PTTK HTTT TS. THU & NAM\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.FrmSuaDTH.resources
+G:\DISK C\PTTK HTTT TS. THU & NAM\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.FrmThemCT_DTH.resources
+G:\DISK C\PTTK HTTT TS. THU & NAM\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.FrmThemDTH.resources
+G:\DISK C\PTTK HTTT TS. THU & NAM\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.Properties.Resources.resources
+G:\DISK C\PTTK HTTT TS. THU & NAM\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.csproj.GenerateResource.cache
+G:\DISK C\PTTK HTTT TS. THU & NAM\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.csproj.CoreCompileInputs.cache
+G:\DISK C\PTTK HTTT TS. THU & NAM\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.exe
+G:\DISK C\PTTK HTTT TS. THU & NAM\[DATH] Trả hàng (Bảo hành NCC) - 1712866\Source TraHang (BaoHanhNCC)\BaoHanhNCC\obj\Debug\BaoHanhNCC.pdb
